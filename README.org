@@ -6,5 +6,3 @@
 - I code mostly in C++ and Python but I'm currently learning Go. Linux is my
   favorite operating system. Apart from that, I use the appropriate tools for
   the respective tasks.
-- At present I'm looking for a position as a software developer in Styria with
-  the possibility to work partly from home.
